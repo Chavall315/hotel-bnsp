@@ -4,6 +4,10 @@ Proyek ini merupakan aplikasi **Website Hotel** sederhana berbasis **Laravel**, 
 
 ---
 
+## Dibuat oleh:
+
+- **[@Thoifur2007](https://github.com/Thoifur2007)** - Fullstack Developer 
+
 ## 🚀 Fitur Utama
 
 ### 🌐 1. Landing Page
@@ -57,7 +61,3 @@ Form ini digunakan untuk mencatat data pelanggan yang ingin menginap di hotel.
 ```bash
 git clone https://github.com/Thoifur2007/hotel-bnsp.git
 cd hotel-bnsp
-
-## Dibuat oleh:
-
-- **[@Thoifur2007](https://github.com/Thoifur2007)** - Fullstack Developer 
